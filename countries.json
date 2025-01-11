@@ -1,0 +1,1534 @@
+{
+    "afghanistan": {
+        "fullname": "Islamic Republic of Afghanistan",
+        "region": "South Asia",
+        "political_groups": [
+            "SAARC"
+        ]
+    },
+    "albania": {
+        "fullname": "Republic of Albania",
+        "region": "Southern Europe",
+        "political_groups": [
+            "NATO",
+            "OSCE"
+        ]
+    },
+    "algeria": {
+        "fullname": "People's Democratic Republic of Algeria",
+        "region": "Maghreb",
+        "political_groups": [
+            "African Union",
+            "Arab League",
+            "OPEC"
+        ]
+    },
+    "andorra": {
+        "fullname": "Principality of Andorra",
+        "region": "Southern Europe",
+        "political_groups": [
+            "OSCE"
+        ]
+    },
+    "angola": {
+        "fullname": "Republic of Angola",
+        "region": "Central Africa",
+        "political_groups": [
+            "African Union",
+            "OPEC"
+        ]
+    },
+    "argentina": {
+        "fullname": "Argentine Republic",
+        "region": "South America",
+        "political_groups": [
+            "UNASUR",
+            "Mercosur",
+            "G20"
+        ]
+    },
+    "armenia": {
+        "fullname": "Republic of Armenia",
+        "region": "Caucasus",
+        "political_groups": [
+            "CSTO",
+            "EAEU"
+        ]
+    },
+    "australia": {
+        "fullname": "Commonwealth of Australia",
+        "region": "Oceania",
+        "political_groups": [
+            "ANZUS",
+            "APEC",
+            "G20"
+        ]
+    },
+    "austria": {
+        "fullname": "Republic of Austria",
+        "region": "Central Europe",
+        "political_groups": [
+            "European Union",
+            "OSCE"
+        ]
+    },
+    "azerbaijan": {
+        "fullname": "Republic of Azerbaijan",
+        "region": "Caucasus",
+        "political_groups": [
+            "CIS",
+            "OIC"
+        ]
+    },
+    "bahamas": {
+        "fullname": "Commonwealth of The Bahamas",
+        "region": "Caribbean",
+        "political_groups": [
+            "CARICOM"
+        ]
+    },
+    "bahrain": {
+        "fullname": "Kingdom of Bahrain",
+        "region": "Middle East",
+        "political_groups": [
+            "GCC",
+            "Arab League"
+        ]
+    },
+    "bangladesh": {
+        "fullname": "People's Republic of Bangladesh",
+        "region": "South Asia",
+        "political_groups": [
+            "SAARC"
+        ]
+    },
+    "barbados": {
+        "fullname": "Barbados",
+        "region": "Caribbean",
+        "political_groups": [
+            "CARICOM"
+        ]
+    },
+    "belarus": {
+        "fullname": "Republic of Belarus",
+        "region": "Eastern Europe",
+        "political_groups": [
+            "CSTO",
+            "EAEU"
+        ]
+    },
+    "belgium": {
+        "fullname": "Kingdom of Belgium",
+        "region": "Western Europe",
+        "political_groups": [
+            "European Union",
+            "NATO"
+        ]
+    },
+    "belize": {
+        "fullname": "Belize",
+        "region": "Central America",
+        "political_groups": [
+            "CARICOM",
+            "SICA"
+        ]
+    },
+    "benin": {
+        "fullname": "Republic of Benin",
+        "region": "West Africa",
+        "political_groups": [
+            "African Union",
+            "ECOWAS"
+        ]
+    },
+    "bhutan": {
+        "fullname": "Kingdom of Bhutan",
+        "region": "South Asia",
+        "political_groups": [
+            "SAARC"
+        ]
+    },
+    "bolivia": {
+        "fullname": "Plurinational State of Bolivia",
+        "region": "South America",
+        "political_groups": [
+            "UNASUR",
+            "CAN"
+        ]
+    },
+    "bosnia_and_herzegovina": {
+        "fullname": "Bosnia and Herzegovina",
+        "region": "Southern Europe",
+        "political_groups": [
+            "OSCE"
+        ]
+    },
+    "botswana": {
+        "fullname": "Republic of Botswana",
+        "region": "Southern Africa",
+        "political_groups": [
+            "African Union",
+            "SADC"
+        ]
+    },
+    "brazil": {
+        "fullname": "Federative Republic of Brazil",
+        "region": "South America",
+        "political_groups": [
+            "UNASUR",
+            "BRICS",
+            "G20"
+        ]
+    },
+    "brunei": {
+        "fullname": "Nation of Brunei, Abode of Peace",
+        "region": "Southeast Asia",
+        "political_groups": [
+            "ASEAN"
+        ]
+    },
+    "bulgaria": {
+        "fullname": "Republic of Bulgaria",
+        "region": "Eastern Europe",
+        "political_groups": [
+            "European Union",
+            "NATO"
+        ]
+    },
+    "burkina_faso": {
+        "fullname": "Burkina Faso",
+        "region": "West Africa",
+        "political_groups": [
+            "African Union",
+            "ECOWAS"
+        ]
+    },
+    "burundi": {
+        "fullname": "Republic of Burundi",
+        "region": "East Africa",
+        "political_groups": [
+            "African Union",
+            "EAC"
+        ]
+    },
+    "cambodia": {
+        "fullname": "Kingdom of Cambodia",
+        "region": "Southeast Asia",
+        "political_groups": [
+            "ASEAN"
+        ]
+    },
+    "cameroon": {
+        "fullname": "Republic of Cameroon",
+        "region": "Central Africa",
+        "political_groups": [
+            "African Union",
+            "CEMAC"
+        ]
+    },
+    "canada": {
+        "fullname": "Canada",
+        "region": "North America",
+        "political_groups": [
+            "NATO",
+            "G7",
+            "G20",
+            "Commonwealth"
+        ]
+    },
+    "cape_verde": {
+        "fullname": "Republic of Cabo Verde",
+        "region": "West Africa",
+        "political_groups": [
+            "African Union",
+            "ECOWAS"
+        ]
+    },
+    "central_african_republic": {
+        "fullname": "Central African Republic",
+        "region": "Central Africa",
+        "political_groups": [
+            "African Union",
+            "ECCAS"
+        ]
+    },
+    "chad": {
+        "fullname": "Republic of Chad",
+        "region": "Central Africa",
+        "political_groups": [
+            "African Union",
+            "CEMAC"
+        ]
+    },
+    "chile": {
+        "fullname": "Republic of Chile",
+        "region": "South America",
+        "political_groups": [
+            "UNASUR",
+            "APEC",
+            "OECD"
+        ]
+    },
+    "china": {
+        "fullname": "People's Republic of China",
+        "region": "East Asia",
+        "political_groups": [
+            "BRICS",
+            "Shanghai Cooperation Organization",
+            "G20"
+        ]
+    },
+    "colombia": {
+        "fullname": "Republic of Colombia",
+        "region": "South America",
+        "political_groups": [
+            "UNASUR",
+            "CAN"
+        ]
+    },
+    "comoros": {
+        "fullname": "Union of the Comoros",
+        "region": "East Africa",
+        "political_groups": [
+            "African Union",
+            "Arab League"
+        ]
+    },
+    "congo": {
+        "fullname": "Republic of the Congo",
+        "region": "Central Africa",
+        "political_groups": [
+            "African Union",
+            "ECCAS"
+        ]
+    },
+    "congo_democratic_republic": {
+        "fullname": "Democratic Republic of the Congo",
+        "region": "Central Africa",
+        "political_groups": [
+            "African Union",
+            "ECCAS"
+        ]
+    },
+    "costa_rica": {
+        "fullname": "Republic of Costa Rica",
+        "region": "Central America",
+        "political_groups": [
+            "SICA"
+        ]
+    },
+    "croatia": {
+        "fullname": "Republic of Croatia",
+        "region": "Southern Europe",
+        "political_groups": [
+            "European Union",
+            "NATO"
+        ]
+    },
+    "cuba": {
+        "fullname": "Republic of Cuba",
+        "region": "Caribbean",
+        "political_groups": [
+            "Non-Aligned Movement"
+        ]
+    },
+    "cyprus": {
+        "fullname": "Republic of Cyprus",
+        "region": "Middle East",
+        "political_groups": [
+            "European Union",
+            "Commonwealth"
+        ]
+    },
+    "czech_republic": {
+        "fullname": "Czech Republic",
+        "region": "Eastern Europe",
+        "political_groups": [
+            "European Union",
+            "NATO"
+        ]
+    },
+    "denmark": {
+        "fullname": "Kingdom of Denmark",
+        "region": "Northern Europe",
+        "political_groups": [
+            "European Union",
+            "NATO"
+        ]
+    },
+    "djibouti": {
+        "fullname": "Republic of Djibouti",
+        "region": "East Africa",
+        "political_groups": [
+            "African Union",
+            "Arab League"
+        ]
+    },
+    "dominica": {
+        "fullname": "Commonwealth of Dominica",
+        "region": "Caribbean",
+        "political_groups": [
+            "CARICOM"
+        ]
+    },
+    "dominican_republic": {
+        "fullname": "Dominican Republic",
+        "region": "Caribbean",
+        "political_groups": [
+            "SICA"
+        ]
+    },
+    "ecuador": {
+        "fullname": "Republic of Ecuador",
+        "region": "South America",
+        "political_groups": [
+            "UNASUR",
+            "CAN"
+        ]
+    },
+    "egypt": {
+        "fullname": "Arab Republic of Egypt",
+        "region": "Middle East",
+        "political_groups": [
+            "African Union",
+            "Arab League",
+            "OIC"
+        ]
+    },
+    "el_salvador": {
+        "fullname": "Republic of El Salvador",
+        "region": "Central America",
+        "political_groups": [
+            "SICA"
+        ]
+    },
+    "equatorial_guinea": {
+        "fullname": "Republic of Equatorial Guinea",
+        "region": "Central Africa",
+        "political_groups": [
+            "African Union",
+            "ECCAS"
+        ]
+    },
+    "eritrea": {
+        "fullname": "State of Eritrea",
+        "region": "East Africa",
+        "political_groups": [
+            "African Union"
+        ]
+    },
+    "estonia": {
+        "fullname": "Republic of Estonia",
+        "region": "Northern Europe",
+        "political_groups": [
+            "European Union",
+            "NATO"
+        ]
+    },
+    "eswatini": {
+        "fullname": "Kingdom of Eswatini",
+        "region": "Southern Africa",
+        "political_groups": [
+            "African Union",
+            "SADC"
+        ]
+    },
+    "ethiopia": {
+        "fullname": "Federal Democratic Republic of Ethiopia",
+        "region": "East Africa",
+        "political_groups": [
+            "African Union",
+            "IGAD"
+        ]
+    },
+    "fiji": {
+        "fullname": "Republic of Fiji",
+        "region": "Oceania",
+        "political_groups": [
+            "Pacific Islands Forum"
+        ]
+    },
+    "finland": {
+        "fullname": "Republic of Finland",
+        "region": "Northern Europe",
+        "political_groups": [
+            "European Union",
+            "OSCE"
+        ]
+    },
+    "france": {
+        "fullname": "French Republic",
+        "region": "Western Europe",
+        "political_groups": [
+            "European Union",
+            "NATO",
+            "G7",
+            "G20"
+        ]
+    },
+    "gabon": {
+        "fullname": "Gabonese Republic",
+        "region": "Central Africa",
+        "political_groups": [
+            "African Union",
+            "ECCAS"
+        ]
+    },
+    "gambia": {
+        "fullname": "Republic of The Gambia",
+        "region": "West Africa",
+        "political_groups": [
+            "African Union",
+            "ECOWAS"
+        ]
+    },
+    "georgia": {
+        "fullname": "Republic of Georgia",
+        "region": "Caucasus",
+        "political_groups": [
+            "OSCE"
+        ]
+    },
+    "germany": {
+        "fullname": "Federal Republic of Germany",
+        "region": "Western Europe",
+        "political_groups": [
+            "European Union",
+            "NATO",
+            "G7",
+            "G20"
+        ]
+    },
+    "ghana": {
+        "fullname": "Republic of Ghana",
+        "region": "West Africa",
+        "political_groups": [
+            "African Union",
+            "ECOWAS"
+        ]
+    },
+    "greece": {
+        "fullname": "Hellenic Republic",
+        "region": "Southern Europe",
+        "political_groups": [
+            "European Union",
+            "NATO"
+        ]
+    },
+    "grenada": {
+        "fullname": "Grenada",
+        "region": "Caribbean",
+        "political_groups": [
+            "CARICOM",
+            "Commonwealth"
+        ]
+    },
+    "guatemala": {
+        "fullname": "Republic of Guatemala",
+        "region": "Central America",
+        "political_groups": [
+            "SICA"
+        ]
+    },
+    "guinea": {
+        "fullname": "Republic of Guinea",
+        "region": "West Africa",
+        "political_groups": [
+            "African Union",
+            "ECOWAS"
+        ]
+    },
+    "guinea_bissau": {
+        "fullname": "Republic of Guinea-Bissau",
+        "region": "West Africa",
+        "political_groups": [
+            "African Union",
+            "ECOWAS"
+        ]
+    },
+    "guyana": {
+        "fullname": "Cooperative Republic of Guyana",
+        "region": "South America",
+        "political_groups": [
+            "CARICOM",
+            "Commonwealth"
+        ]
+    },
+    "haiti": {
+        "fullname": "Republic of Haiti",
+        "region": "Caribbean",
+        "political_groups": [
+            "CARICOM"
+        ]
+    },
+    "honduras": {
+        "fullname": "Republic of Honduras",
+        "region": "Central America",
+        "political_groups": [
+            "SICA"
+        ]
+    },
+    "hungary": {
+        "fullname": "Hungary",
+        "region": "Eastern Europe",
+        "political_groups": [
+            "European Union",
+            "NATO"
+        ]
+    },
+    "iceland": {
+        "fullname": "Iceland",
+        "region": "Northern Europe",
+        "political_groups": [
+            "NATO"
+        ]
+    },
+    "india": {
+        "fullname": "Republic of India",
+        "region": "South Asia",
+        "political_groups": [
+            "BRICS",
+            "G20",
+            "Commonwealth"
+        ]
+    },
+    "indonesia": {
+        "fullname": "Republic of Indonesia",
+        "region": "Southeast Asia",
+        "political_groups": [
+            "ASEAN",
+            "G20"
+        ]
+    },
+    "iran": {
+        "fullname": "Islamic Republic of Iran",
+        "region": "Middle East",
+        "political_groups": [
+            "OPEC",
+            "Non-Aligned Movement"
+        ]
+    },
+    "iraq": {
+        "fullname": "Republic of Iraq",
+        "region": "Middle East",
+        "political_groups": [
+            "Arab League",
+            "OPEC"
+        ]
+    },
+    "ireland": {
+        "fullname": "Ireland",
+        "region": "Western Europe",
+        "political_groups": [
+            "European Union"
+        ]
+    },
+    "israel": {
+        "fullname": "State of Israel",
+        "region": "Middle East",
+        "political_groups": [
+            "OECD"
+        ]
+    },
+    "italy": {
+        "fullname": "Italian Republic",
+        "region": "Southern Europe",
+        "political_groups": [
+            "European Union",
+            "NATO",
+            "G7",
+            "G20"
+        ]
+    },
+    "jamaica": {
+        "fullname": "Jamaica",
+        "region": "Caribbean",
+        "political_groups": [
+            "CARICOM",
+            "Commonwealth"
+        ]
+    },
+    "japan": {
+        "fullname": "Japan",
+        "region": "East Asia",
+        "political_groups": [
+            "G7",
+            "G20",
+            "OECD"
+        ]
+    },
+    "jordan": {
+        "fullname": "Hashemite Kingdom of Jordan",
+        "region": "Middle East",
+        "political_groups": [
+            "Arab League",
+            "OIC"
+        ]
+    },
+    "kazakhstan": {
+        "fullname": "Republic of Kazakhstan",
+        "region": "Central Asia",
+        "political_groups": [
+            "CIS",
+            "Shanghai Cooperation Organization"
+        ]
+    },
+    "kenya": {
+        "fullname": "Republic of Kenya",
+        "region": "East Africa",
+        "political_groups": [
+            "African Union",
+            "IGAD"
+        ]
+    },
+    "kiribati": {
+        "fullname": "Republic of Kiribati",
+        "region": "Oceania",
+        "political_groups": [
+            "Pacific Islands Forum",
+            "Commonwealth"
+        ]
+    },
+    "kuwait": {
+        "fullname": "State of Kuwait",
+        "region": "Middle East",
+        "political_groups": [
+            "Arab League",
+            "OPEC"
+        ]
+    },
+    "kyrgyzstan": {
+        "fullname": "Kyrgyz Republic",
+        "region": "Central Asia",
+        "political_groups": [
+            "CIS",
+            "Shanghai Cooperation Organization"
+        ]
+    },
+    "laos": {
+        "fullname": "Lao People's Democratic Republic",
+        "region": "Southeast Asia",
+        "political_groups": [
+            "ASEAN"
+        ]
+    },
+    "latvia": {
+        "fullname": "Republic of Latvia",
+        "region": "Northern Europe",
+        "political_groups": [
+            "European Union",
+            "NATO"
+        ]
+    },
+    "lebanon": {
+        "fullname": "Lebanese Republic",
+        "region": "Middle East",
+        "political_groups": [
+            "Arab League",
+            "OIC"
+        ]
+    },
+    "lesotho": {
+        "fullname": "Kingdom of Lesotho",
+        "region": "Southern Africa",
+        "political_groups": [
+            "African Union",
+            "SADC"
+        ]
+    },
+    "liberia": {
+        "fullname": "Republic of Liberia",
+        "region": "West Africa",
+        "political_groups": [
+            "African Union",
+            "ECOWAS"
+        ]
+    },
+    "libya": {
+        "fullname": "State of Libya",
+        "region": "North Africa",
+        "political_groups": [
+            "African Union",
+            "Arab League"
+        ]
+    },
+    "liechtenstein": {
+        "fullname": "Principality of Liechtenstein",
+        "region": "Western Europe",
+        "political_groups": [
+            "European Free Trade Association"
+        ]
+    },
+    "lithuania": {
+        "fullname": "Republic of Lithuania",
+        "region": "Northern Europe",
+        "political_groups": [
+            "European Union",
+            "NATO"
+        ]
+    },
+    "luxembourg": {
+        "fullname": "Grand Duchy of Luxembourg",
+        "region": "Western Europe",
+        "political_groups": [
+            "European Union",
+            "NATO"
+        ]
+    },
+    "madagascar": {
+        "fullname": "Republic of Madagascar",
+        "region": "East Africa",
+        "political_groups": [
+            "African Union",
+            "SADC"
+        ]
+    },
+    "malawi": {
+        "fullname": "Republic of Malawi",
+        "region": "East Africa",
+        "political_groups": [
+            "African Union",
+            "SADC"
+        ]
+    },
+    "malaysia": {
+        "fullname": "Malaysia",
+        "region": "Southeast Asia",
+        "political_groups": [
+            "ASEAN",
+            "Commonwealth"
+        ]
+    },
+    "maldives": {
+        "fullname": "Republic of Maldives",
+        "region": "South Asia",
+        "political_groups": [
+            "SAARC",
+            "Commonwealth"
+        ]
+    },
+    "mali": {
+        "fullname": "Republic of Mali",
+        "region": "West Africa",
+        "political_groups": [
+            "African Union",
+            "ECOWAS"
+        ]
+    },
+    "malta": {
+        "fullname": "Republic of Malta",
+        "region": "Southern Europe",
+        "political_groups": [
+            "European Union",
+            "Commonwealth"
+        ]
+    },
+    "marshall_islands": {
+        "fullname": "Republic of the Marshall Islands",
+        "region": "Oceania",
+        "political_groups": [
+            "Pacific Islands Forum",
+            "Compact of Free Association"
+        ]
+    },
+    "mauritania": {
+        "fullname": "Islamic Republic of Mauritania",
+        "region": "North Africa",
+        "political_groups": [
+            "African Union",
+            "Arab League"
+        ]
+    },
+    "mauritius": {
+        "fullname": "Republic of Mauritius",
+        "region": "East Africa",
+        "political_groups": [
+            "African Union",
+            "SADC"
+        ]
+    },
+    "mexico": {
+        "fullname": "United Mexican States",
+        "region": "North America",
+        "political_groups": [
+            "USMCA",
+            "OECD",
+            "G20"
+        ]
+    },
+    "micronesia": {
+        "fullname": "Federated States of Micronesia",
+        "region": "Oceania",
+        "political_groups": [
+            "Pacific Islands Forum",
+            "Compact of Free Association"
+        ]
+    },
+    "moldova": {
+        "fullname": "Republic of Moldova",
+        "region": "Eastern Europe",
+        "political_groups": [
+            "CIS",
+            "GUAM"
+        ]
+    },
+    "monaco": {
+        "fullname": "Principality of Monaco",
+        "region": "Western Europe",
+        "political_groups": [
+            "United Nations"
+        ]
+    },
+    "mongolia": {
+        "fullname": "Mongolia",
+        "region": "East Asia",
+        "political_groups": [
+            "United Nations"
+        ]
+    },
+    "montenegro": {
+        "fullname": "Montenegro",
+        "region": "Southeast Europe",
+        "political_groups": [
+            "NATO"
+        ]
+    },
+    "morocco": {
+        "fullname": "Kingdom of Morocco",
+        "region": "North Africa",
+        "political_groups": [
+            "African Union",
+            "Arab League"
+        ]
+    },
+    "mozambique": {
+        "fullname": "Republic of Mozambique",
+        "region": "Southern Africa",
+        "political_groups": [
+            "African Union",
+            "SADC"
+        ]
+    },
+    "myanmar": {
+        "fullname": "Republic of the Union of Myanmar",
+        "region": "Southeast Asia",
+        "political_groups": [
+            "ASEAN"
+        ]
+    },
+    "namibia": {
+        "fullname": "Republic of Namibia",
+        "region": "Southern Africa",
+        "political_groups": [
+            "African Union",
+            "SADC"
+        ]
+    },
+    "nauru": {
+        "fullname": "Republic of Nauru",
+        "region": "Oceania",
+        "political_groups": [
+            "Pacific Islands Forum"
+        ]
+    },
+    "nepal": {
+        "fullname": "Federal Democratic Republic of Nepal",
+        "region": "South Asia",
+        "political_groups": [
+            "SAARC"
+        ]
+    },
+    "netherlands": {
+        "fullname": "Kingdom of the Netherlands",
+        "region": "Western Europe",
+        "political_groups": [
+            "European Union",
+            "NATO"
+        ]
+    },
+    "new_zealand": {
+        "fullname": "New Zealand",
+        "region": "Oceania",
+        "political_groups": [
+            "Commonwealth",
+            "Pacific Islands Forum"
+        ]
+    },
+    "nicaragua": {
+        "fullname": "Republic of Nicaragua",
+        "region": "Central America",
+        "political_groups": [
+            "SICA"
+        ]
+    },
+    "niger": {
+        "fullname": "Republic of the Niger",
+        "region": "West Africa",
+        "political_groups": [
+            "African Union",
+            "ECOWAS"
+        ]
+    },
+    "nigeria": {
+        "fullname": "Federal Republic of Nigeria",
+        "region": "West Africa",
+        "political_groups": [
+            "African Union",
+            "ECOWAS"
+        ]
+    },
+    "north_korea": {
+        "fullname": "Democratic People's Republic of Korea",
+        "region": "East Asia",
+        "political_groups": [
+            "Non-Aligned Movement"
+        ]
+    },
+    "north_macedonia": {
+        "fullname": "Republic of North Macedonia",
+        "region": "Southeast Europe",
+        "political_groups": [
+            "NATO"
+        ]
+    },
+    "norway": {
+        "fullname": "Kingdom of Norway",
+        "region": "Northern Europe",
+        "political_groups": [
+            "NATO",
+            "European Free Trade Association"
+        ]
+    },
+    "oman": {
+        "fullname": "Sultanate of Oman",
+        "region": "Middle East",
+        "political_groups": [
+            "Arab League",
+            "OIC"
+        ]
+    },
+    "pakistan": {
+        "fullname": "Islamic Republic of Pakistan",
+        "region": "South Asia",
+        "political_groups": [
+            "SAARC",
+            "OIC"
+        ]
+    },
+    "palau": {
+        "fullname": "Republic of Palau",
+        "region": "Oceania",
+        "political_groups": [
+            "Pacific Islands Forum",
+            "Compact of Free Association"
+        ]
+    },
+    "palestine": {
+        "fullname": "State of Palestine",
+        "region": "Middle East",
+        "political_groups": [
+            "Arab League",
+            "OIC"
+        ]
+    },
+    "panama": {
+        "fullname": "Republic of Panama",
+        "region": "Central America",
+        "political_groups": [
+            "SICA"
+        ]
+    },
+    "papua_new_guinea": {
+        "fullname": "Independent State of Papua New Guinea",
+        "region": "Oceania",
+        "political_groups": [
+            "Pacific Islands Forum",
+            "Commonwealth"
+        ]
+    },
+    "paraguay": {
+        "fullname": "Republic of Paraguay",
+        "region": "South America",
+        "political_groups": [
+            "MERCOSUR",
+            "UNASUR"
+        ]
+    },
+    "peru": {
+        "fullname": "Republic of Peru",
+        "region": "South America",
+        "political_groups": [
+            "MERCOSUR",
+            "Pacific Alliance",
+            "UNASUR"
+        ]
+    },
+    "philippines": {
+        "fullname": "Republic of the Philippines",
+        "region": "Southeast Asia",
+        "political_groups": [
+            "ASEAN",
+            "Non-Aligned Movement"
+        ]
+    },
+    "poland": {
+        "fullname": "Republic of Poland",
+        "region": "Eastern Europe",
+        "political_groups": [
+            "European Union",
+            "NATO"
+        ]
+    },
+    "portugal": {
+        "fullname": "Portuguese Republic",
+        "region": "Southern Europe",
+        "political_groups": [
+            "European Union",
+            "NATO"
+        ]
+    },
+    "qatar": {
+        "fullname": "State of Qatar",
+        "region": "Middle East",
+        "political_groups": [
+            "Arab League",
+            "GCC",
+            "OIC"
+        ]
+    },
+    "romania": {
+        "fullname": "Romania",
+        "region": "Eastern Europe",
+        "political_groups": [
+            "European Union",
+            "NATO"
+        ]
+    },
+    "russia": {
+        "fullname": "Russian Federation",
+        "region": "Eastern Europe and Northern Asia",
+        "political_groups": [
+            "CIS",
+            "BRICS",
+            "SCO",
+            "G20"
+        ]
+    },
+    "rwanda": {
+        "fullname": "Republic of Rwanda",
+        "region": "East Africa",
+        "political_groups": [
+            "African Union",
+            "EAC"
+        ]
+    },
+    "saint_kitts_and_nevis": {
+        "fullname": "Federation of Saint Kitts and Nevis",
+        "region": "Caribbean",
+        "political_groups": [
+            "CARICOM",
+            "Commonwealth"
+        ]
+    },
+    "saint_lucia": {
+        "fullname": "Saint Lucia",
+        "region": "Caribbean",
+        "political_groups": [
+            "CARICOM",
+            "Commonwealth"
+        ]
+    },
+    "saint_vincent_and_the_grenadines": {
+        "fullname": "Saint Vincent and the Grenadines",
+        "region": "Caribbean",
+        "political_groups": [
+            "CARICOM",
+            "Commonwealth"
+        ]
+    },
+    "samoa": {
+        "fullname": "Independent State of Samoa",
+        "region": "Oceania",
+        "political_groups": [
+            "Pacific Islands Forum",
+            "Commonwealth"
+        ]
+    },
+    "san_marino": {
+        "fullname": "Republic of San Marino",
+        "region": "Southern Europe",
+        "political_groups": [
+            "United Nations"
+        ]
+    },
+    "sao_tome_and_principe": {
+        "fullname": "Democratic Republic of São Tomé and Príncipe",
+        "region": "Central Africa",
+        "political_groups": [
+            "African Union",
+            "CPLP"
+        ]
+    },
+    "saudi_arabia": {
+        "fullname": "Kingdom of Saudi Arabia",
+        "region": "Middle East",
+        "political_groups": [
+            "Arab League",
+            "OIC",
+            "GCC",
+            "G20"
+        ]
+    },
+    "senegal": {
+        "fullname": "Republic of Senegal",
+        "region": "West Africa",
+        "political_groups": [
+            "African Union",
+            "ECOWAS"
+        ]
+    },
+    "serbia": {
+        "fullname": "Republic of Serbia",
+        "region": "Southeast Europe",
+        "political_groups": [
+            "United Nations"
+        ]
+    },
+    "seychelles": {
+        "fullname": "Republic of Seychelles",
+        "region": "East Africa",
+        "political_groups": [
+            "African Union",
+            "Commonwealth"
+        ]
+    },
+    "sierra_leone": {
+        "fullname": "Republic of Sierra Leone",
+        "region": "West Africa",
+        "political_groups": [
+            "African Union",
+            "ECOWAS"
+        ]
+    },
+    "singapore": {
+        "fullname": "Republic of Singapore",
+        "region": "Southeast Asia",
+        "political_groups": [
+            "ASEAN",
+            "Commonwealth"
+        ]
+    },
+    "slovakia": {
+        "fullname": "Slovak Republic",
+        "region": "Eastern Europe",
+        "political_groups": [
+            "European Union",
+            "NATO"
+        ]
+    },
+    "slovenia": {
+        "fullname": "Republic of Slovenia",
+        "region": "Southeast Europe",
+        "political_groups": [
+            "European Union",
+            "NATO"
+        ]
+    },
+    "solomon_islands": {
+        "fullname": "Solomon Islands",
+        "region": "Oceania",
+        "political_groups": [
+            "Pacific Islands Forum",
+            "Commonwealth"
+        ]
+    },
+    "somalia": {
+        "fullname": "Federal Republic of Somalia",
+        "region": "East Africa",
+        "political_groups": [
+            "African Union",
+            "Arab League",
+            "OIC"
+        ]
+    },
+    "south_africa": {
+        "fullname": "Republic of South Africa",
+        "region": "Southern Africa",
+        "political_groups": [
+            "African Union",
+            "BRICS",
+            "SADC",
+            "G20"
+        ]
+    },
+    "south_korea": {
+        "fullname": "Republic of Korea",
+        "region": "East Asia",
+        "political_groups": [
+            "OECD",
+            "G20"
+        ]
+    },
+    "south_sudan": {
+        "fullname": "Republic of South Sudan",
+        "region": "East Africa",
+        "political_groups": [
+            "African Union"
+        ]
+    },
+    "spain": {
+        "fullname": "Kingdom of Spain",
+        "region": "Southern Europe",
+        "political_groups": [
+            "European Union",
+            "NATO"
+        ]
+    },
+    "sri_lanka": {
+        "fullname": "Democratic Socialist Republic of Sri Lanka",
+        "region": "South Asia",
+        "political_groups": [
+            "SAARC",
+            "Commonwealth"
+        ]
+    },
+    "sudan": {
+        "fullname": "Republic of the Sudan",
+        "region": "North Africa",
+        "political_groups": [
+            "African Union",
+            "Arab League",
+            "OIC"
+        ]
+    },
+    "suriname": {
+        "fullname": "Republic of Suriname",
+        "region": "South America",
+        "political_groups": [
+            "CARICOM",
+            "UNASUR"
+        ]
+    },
+    "sweden": {
+        "fullname": "Kingdom of Sweden",
+        "region": "Northern Europe",
+        "political_groups": [
+            "European Union",
+            "NATO"
+        ]
+    },
+    "switzerland": {
+        "fullname": "Swiss Confederation",
+        "region": "Western Europe",
+        "political_groups": [
+            "European Free Trade Association"
+        ]
+    },
+    "syria": {
+        "fullname": "Syrian Arab Republic",
+        "region": "Middle East",
+        "political_groups": [
+            "Arab League",
+            "OIC"
+        ]
+    },
+    "taiwan": {
+        "fullname": "Republic of China (Taiwan)",
+        "region": "East Asia",
+        "political_groups": [
+            "APEC"
+        ]
+    },
+    "tajikistan": {
+        "fullname": "Republic of Tajikistan",
+        "region": "Central Asia",
+        "political_groups": [
+            "CIS",
+            "SCO"
+        ]
+    },
+    "tanzania": {
+        "fullname": "United Republic of Tanzania",
+        "region": "East Africa",
+        "political_groups": [
+            "African Union",
+            "EAC",
+            "SADC"
+        ]
+    },
+    "thailand": {
+        "fullname": "Kingdom of Thailand",
+        "region": "Southeast Asia",
+        "political_groups": [
+            "ASEAN",
+            "Non-Aligned Movement"
+        ]
+    },
+    "togo": {
+        "fullname": "Togolese Republic",
+        "region": "West Africa",
+        "political_groups": [
+            "African Union",
+            "ECOWAS"
+        ]
+    },
+    "tonga": {
+        "fullname": "Kingdom of Tonga",
+        "region": "Oceania",
+        "political_groups": [
+            "Pacific Islands Forum",
+            "Commonwealth"
+        ]
+    },
+    "trinidad_and_tobago": {
+        "fullname": "Republic of Trinidad and Tobago",
+        "region": "Caribbean",
+        "political_groups": [
+            "CARICOM",
+            "Commonwealth"
+        ]
+    },
+    "tunisia": {
+        "fullname": "Republic of Tunisia",
+        "region": "North Africa",
+        "political_groups": [
+            "African Union",
+            "Arab League",
+            "OIC"
+        ]
+    },
+    "turkey": {
+        "fullname": "Republic of Turkey",
+        "region": "Middle East",
+        "political_groups": [
+            "NATO",
+            "G20",
+            "OIC"
+        ]
+    },
+    "turkmenistan": {
+        "fullname": "Turkmenistan",
+        "region": "Central Asia",
+        "political_groups": [
+            "CIS",
+            "Non-Aligned Movement"
+        ]
+    },
+    "tuvalu": {
+        "fullname": "Tuvalu",
+        "region": "Oceania",
+        "political_groups": [
+            "Pacific Islands Forum",
+            "Commonwealth"
+        ]
+    },
+    "uganda": {
+        "fullname": "Republic of Uganda",
+        "region": "East Africa",
+        "political_groups": [
+            "African Union",
+            "EAC"
+        ]
+    },
+    "ukraine": {
+        "fullname": "Ukraine",
+        "region": "Eastern Europe",
+        "political_groups": [
+            "United Nations"
+        ]
+    },
+    "united_arab_emirates": {
+        "fullname": "United Arab Emirates",
+        "region": "Middle East",
+        "political_groups": [
+            "Arab League",
+            "GCC",
+            "OIC"
+        ]
+    },
+    "united_kingdom": {
+        "fullname": "United Kingdom of Great Britain and Northern Ireland",
+        "region": "Western Europe",
+        "political_groups": [
+            "European Free Trade Association",
+            "NATO",
+            "G7",
+            "G20"
+        ]
+    },
+    "united_states": {
+        "fullname": "United States of America",
+        "region": "North America",
+        "political_groups": [
+            "NATO",
+            "OECD",
+            "G20",
+            "G7"
+        ]
+    },
+    "uruguay": {
+        "fullname": "Oriental Republic of Uruguay",
+        "region": "South America",
+        "political_groups": [
+            "MERCOSUR",
+            "UNASUR"
+        ]
+    },
+    "uzbekistan": {
+        "fullname": "Republic of Uzbekistan",
+        "region": "Central Asia",
+        "political_groups": [
+            "CIS",
+            "SCO"
+        ]
+    },
+    "vanuatu": {
+        "fullname": "Republic of Vanuatu",
+        "region": "Oceania",
+        "political_groups": [
+            "Pacific Islands Forum",
+            "Commonwealth"
+        ]
+    },
+    "venezuela": {
+        "fullname": "Bolivarian Republic of Venezuela",
+        "region": "South America",
+        "political_groups": [
+            "MERCOSUR",
+            "UNASUR",
+            "OPEC"
+        ]
+    },
+    "vietnam": {
+        "fullname": "Socialist Republic of Vietnam",
+        "region": "Southeast Asia",
+        "political_groups": [
+            "ASEAN",
+            "Non-Aligned Movement"
+        ]
+    },
+    "yemen": {
+        "fullname": "Republic of Yemen",
+        "region": "Middle East",
+        "political_groups": [
+            "Arab League",
+            "OIC"
+        ]
+    },
+    "zambia": {
+        "fullname": "Republic of Zambia",
+        "region": "Southern Africa",
+        "political_groups": [
+            "African Union",
+            "SADC"
+        ]
+    },
+    "zimbabwe": {
+        "fullname": "Republic of Zimbabwe",
+        "region": "Southern Africa",
+        "political_groups": [
+            "African Union",
+            "SADC"
+        ]
+    }
+}
